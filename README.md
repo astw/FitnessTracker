@@ -7,3 +7,6 @@ http://pluralsight.com/training/Courses/TableOfContents/maven-fundamentals
 
 http://pluralsight.com/training/Courses/TableOfContents/springmvc-intro
 
+
+
+and this is using spring mvc 3
